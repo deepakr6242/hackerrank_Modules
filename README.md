@@ -8,5 +8,5 @@
 
 4.Go to cmd and cd to space where  the repo is cloned 
 
-5.Run like another python modules 'python  <modulename>.py'
+5.Run like another python modules 'python  modulename.py'
   
